@@ -1,0 +1,1 @@
+cop bot works like supreme and shoes cop bots. Input the link to the collectible item you want to buy on roblox and the max price you will pay. If a user enters a selling price below your max price, purchase will be made instantly.

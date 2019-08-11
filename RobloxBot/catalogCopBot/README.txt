@@ -1,0 +1,1 @@
+Similar to cop bot, this bot automates purchases of any collectible on the front page of the catalog under a specified value
